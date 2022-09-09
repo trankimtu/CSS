@@ -1,7 +1,7 @@
 # CSS
 # Color URL
 ```
-.blue-link {
+a {
     color: blue;
     text-decoration: none; /*remove underline*/
 }
