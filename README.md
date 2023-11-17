@@ -32,3 +32,10 @@ a {
 	</div>
 ```
 
+# Align content
+```
+	main {
+		display: flex;
+		align-content: space-evenly;
+	}
+```
